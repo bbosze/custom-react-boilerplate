@@ -1,7 +1,7 @@
 import React from 'react'; // eslint-disable-line no-unused-vars
 import ReactDOM from 'react-dom';
 
-const title = 'Működik';
+const title = 'Jól működik';
 
 ReactDOM.render(
   <div>

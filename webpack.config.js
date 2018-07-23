@@ -32,6 +32,8 @@ module.exports = {
   ],
   devServer: {
     contentBase: './dist',
+    host: "localhost.specialurl.com",
+    port: 3000,
     hot: true,
   },
 };
