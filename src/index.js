@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-const title = 'Jól működik';
+import App from './components/App';
 
 ReactDOM.render(
   <div>
-    {title}
+    <App />
   </div>,
   document.getElementById('app'),
 );
