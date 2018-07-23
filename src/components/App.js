@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => {
-  const title = 'Működik';
+  const title = 'Nagyon Jól Működik';
   return (
     <div>
       {title}
