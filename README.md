@@ -4,5 +4,6 @@ Manually added:
 -React
 -ESLint
 -Hotloader
--Babel, webpack
+-Babel
+-Webpack
 -CI: CircleCI & CodeClimate
